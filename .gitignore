@@ -1,0 +1,6 @@
+﻿**/Lib/
+**/Scripts/
+**/.venv/
+**/site-packages/
+**/pip/
+conflict_simulation/
